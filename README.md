@@ -2,7 +2,6 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱  I’m currently learning C#
-- ✉️  Contact me: camillanaomy@gmail.com
 - 🍮  Art instagram: <a href="https://instagram.com/minaomy.art" target="_blank">@Minaomy.art</a> ✦
 
 <div align="center">
