@@ -1,7 +1,7 @@
 ### Hi, I'm Camilla! (•ヮ•)ﾉ
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱  I’m currently learning C#
+- 🌱  I’m currently learning C# and React.js
 - 🍮  Art instagram: <a href="https://instagram.com/minaomy.art" target="_blank">@Minaomy.art</a> ✦
 
 <div align="center">
